@@ -1,6 +1,7 @@
 # RegisterPage
 
 FIREBASE AUTHENTICATION
+REALTIME DATABASE
 
 
 ![Simulator Screen Shot - iPhone 11 - 2022-04-22 at 10 56 11](https://user-images.githubusercontent.com/81331435/164643853-c88cc65b-8337-4c76-8895-bd4a4efacd49.png)
